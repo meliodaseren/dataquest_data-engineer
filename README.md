@@ -1,14 +1,17 @@
 # DATAQUEST - Data Engineer Path
 
 
-## Production Databases
+## STEP 1 Production Databases
 
-### Postgres for Data Engineers Course
+### Postgres for Data Engineers
 
 Learn about the SQL database Postgres
 
+### Optimizing Postgres Databases
 
-## Handling Large Data Sets In Python
+---
+
+## STEP 2 Handling Large Data Sets In Python
 
 ### Processing Large Datasets In Pandas
 
@@ -27,3 +30,9 @@ Learn about different data structures, and how they can help speed up your data 
 ### Recursion and Trees
 
 Learn about recursion and how it applies to tree data structures. Learn how tree data structures are used to speed up processing of analysis tasks.
+
+---
+
+## STEP 3 Data Pipelines
+
+### Building a Data Pipeline
